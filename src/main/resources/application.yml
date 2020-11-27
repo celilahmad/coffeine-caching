@@ -3,4 +3,3 @@ spring:
     url: jdbc:mysql://localhost:3306/cache
     username: root
     password: hbstudent
-

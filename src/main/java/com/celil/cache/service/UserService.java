@@ -13,7 +13,7 @@ import java.util.Optional;
 
 @Service
 @Log4j2
-@CacheConfig()
+@CacheConfig
 public class UserService {
 
     private final UserRepo userRepo;
